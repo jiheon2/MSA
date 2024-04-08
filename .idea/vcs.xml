@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ApiGateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ClosetService" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/FrontUI" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SpringConfigServer" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/UserService" vcs="Git" />

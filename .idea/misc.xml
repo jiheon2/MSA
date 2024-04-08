@@ -3,6 +3,7 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/ApiGateway/ApiGateway" />
+    <file type="web" url="file://$PROJECT_DIR$/ClosetService" />
     <file type="web" url="file://$PROJECT_DIR$/CommunityService" />
     <file type="web" url="file://$PROJECT_DIR$/FrontUI" />
     <file type="web" url="file://$PROJECT_DIR$/LangChainService" />
@@ -10,7 +11,7 @@
     <file type="web" url="file://$PROJECT_DIR$/StyleService" />
     <file type="web" url="file://$PROJECT_DIR$/UserService" />
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
