@@ -1,0 +1,12 @@
+[submodule "ApiGateway"]
+	path = ApiGateway
+	url = https://github.com/jiheon2/ApiGateway.git
+[submodule "FrontUI"]
+	path = FrontUI
+	url = https://github.com/jiheon2/FrontUI.git
+[submodule "UserService"]
+	path = UserService
+	url = https://github.com/jiheon2/UserService.git
+[submodule "SpringConfigServer"]
+	path = SpringConfigServer
+	url = https://github.com/jiheon2/SpringConfigServer.git
