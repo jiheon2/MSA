@@ -10,3 +10,6 @@
 [submodule "SpringConfigServer"]
 	path = SpringConfigServer
 	url = https://github.com/jiheon2/SpringConfigServer.git
+[submodule "ClosetService"]
+	path = ClosetService
+	url = https://github.com/jiheon2/ClosetService.git
